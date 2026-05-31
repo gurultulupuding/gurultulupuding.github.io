@@ -1,0 +1,1 @@
+export type CityOwner = "player" | "ai";
